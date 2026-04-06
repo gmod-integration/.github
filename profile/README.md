@@ -16,24 +16,24 @@ Our open-source tools empower server owners to create seamless connections betwe
 
 ## Features
 
-🪪 - Players Profile
-📊 - Players Statistics
-🏆 - Players Leaderboard
-🔗 - Guilds Links
-✅ - Guilds Verifications
-🏹 - Guilds Auto Roles
-📋 - Servers Status
-📋 - Servers Status Buttons
-💬 - Servers Chat Relay
-🔍 - Servers Players Database
-🏹 - Servers Sync Role / User Group
-🏹 - Servers Sync Player Pseudo
-🔮 - Servers Logs
-💥 - Servers Error Reports
-📷 - Servers Screenshots Relay
-🗳️ - Servers Ranking List
-📤 - Servers RCON from Discord
-✨ - And more to come...
+- 🪪 - Players Profile
+- 📊 - Players Statistics
+- 🏆 - Players Leaderboard
+- 🔗 - Guilds Links
+- ✅ - Guilds Verifications
+- 🏹 - Guilds Auto Roles
+- 📋 - Servers Status
+- 📋 - Servers Status Buttons
+- 💬 - Servers Chat Relay
+- 🔍 - Servers Players Database
+- 🏹 - Servers Sync Role / User Group
+- 🏹 - Servers Sync Player Pseudo
+- 🔮 - Servers Logs
+- 💥 - Servers Error Reports
+- 📷 - Servers Screenshots Relay
+- 🗳️ - Servers Ranking List
+- 📤 - Servers RCON from Discord
+- ✨ - And more to come...
 
 ## Contributing
 
